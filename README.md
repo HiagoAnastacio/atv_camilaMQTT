@@ -1,0 +1,1 @@
+a api tecnicamente é completamente funcional, porém ei não sei como fazer a interação com o mqtt funcionar
